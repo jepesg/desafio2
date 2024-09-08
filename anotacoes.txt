@@ -1,0 +1,27 @@
+------------
+**O que deve ser utilizado**
+
+Variaveis
+Operadores
+Lacos de repeticao
+Estruturas de decisoes
+Funcoes
+
+##Objetivos
+
+Crie uma funcao que receba como parametro a quantidade de vitorias e derrotas 
+de um jogador, depois disso retorne o resuldado para uma variavel, o saldo de 
+Rankeadas deve ser feito atraves do calculo (vitorias - derrotas)
+
+Se vitorias for menor que 10 = Ferro
+Se vitorias for entre 11 e 20 = Bronze
+Se vitorias for entre 21 e 50 = Prata
+Se vitorias for entre 51 e 80 = Ouro
+Se vitorias for entre 81 e 90 = Diamante
+Se vitorias dor entre 91 a 100 = Lendario
+Se vitorias for Maior ou igual a 101 = Imortal
+
+##Saida
+
+Ao final deve se exibir a mesnagem:
+"O Heroi tem de saldo **{saldoVitorias}** esta no nivel **{nivel}**"
