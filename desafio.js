@@ -6,7 +6,6 @@ function calcPdl(numV, numD) {
     return mediaPdl;
 }
 
-//console.log ("Parabens")
 
 if (result < 10) {
     console.log("O Heroi tem de saldo " + result + "esta no nivel " + nivel[0]);
